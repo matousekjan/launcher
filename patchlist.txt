@@ -1,4 +1,2 @@
-patch-0.0.1a=>dfhdhf
-latest-0.0.1a=>asasea
-patch-0.0.1a=>hgjh
-latest-0.0.1a=>ghjghj
+patch-0.0.1a=>https://srv-file6.gofile.io/downloadStore/srv-store1/upuPsP/patch-0.0.1a.zip
+latest-0.0.1a=>https://srv-file6.gofile.io/downloadStore/srv-store1/upuPsP/latest-0.0.1a.zip
