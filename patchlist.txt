@@ -1,3 +1,2 @@
-patch-0.0.1a=>https://srv-file6.gofile.io/downloadStore/srv-store1/upuPsP/patch-0.0.1a.zip;
-latest-0.0.2a=>https://srv-file6.gofile.io/downloadStore/srv-store1/upuPsP/latest-0.0.1a.zip
-patch-0.0.3a=>https://srv-file6.gofile.io/downloadStore/srv-store1/upuPsP/patch-0.0.1a.zip;
+latest-0.0.1a=>https://srv-file6.gofile.io/downloadStore/srv-store1/upuPsP/latest-0.0.1a.zip
+patch-0.0.2a=>https://srv-file6.gofile.io/downloadStore/srv-store1/upuPsP/patch-0.0.1a.zip;
